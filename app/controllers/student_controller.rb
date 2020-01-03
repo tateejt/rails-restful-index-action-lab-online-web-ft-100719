@@ -1,4 +1,6 @@
 class StudentController < ApplicationController::Base 
   
-  def 
+  def index
+    
+  end
 end
