@@ -1,4 +1,4 @@
-class StudentController < ApplicationController::Base 
+class StudentController < ApplicationController::Base
   
   def index
     render 'student'
